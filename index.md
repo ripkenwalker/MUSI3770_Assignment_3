@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MUSI 3770: Project Studio Tech
 
 You can use the [editor on GitHub](https://github.com/ripkenwalker/MUSI3770_Assignment_3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
