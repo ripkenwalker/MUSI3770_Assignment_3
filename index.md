@@ -2,7 +2,7 @@
 
 ---
 
-# Interview with iOS Developer/Music Technologist Daniel Kuntz
+### Interview with iOS Developer/Music Technologist Daniel Kuntz
 
 Daniel Kuntz is an award-winning iOS application developer based in Atlanta, GA. Daniel is the founder of **[Coda Labs](https://codalabs.io/)**, a company that focuses on developing music-oriented iOS applications. When he is not working on apps for Coda Labs, Daniel also works on fitness tracking iOS app **[Any Distance](https://anydistance.club/)**. Daniel also previously studied Music Technology at the Georgia Institute of Technology. 
 
@@ -79,7 +79,9 @@ In the end, I just enjoy coding stuff. I will get an idea for something and thin
 Of course. I think you should try to make something “real” as soon as possible. Have a real idea for something you want to make of something that may be useful to you. It is a lot more exciting to build something real rather than creating something from a tutorial. Tutorials are fine, but eventually being able to have your own idea for a project and building it from scratch is such a rewarding experience. You learn a lot by doing that while also ending up with a product that actually works for you rather than a only being a tutorial.
 
 ---
----
----
 
-# November 13th, 2021 | Atlanta, GA
+### Summary
+
+It was great to hear insight into how Daniel's career in computer science and music technology has progressed. His final answer about creating a "real" project resonated well with me; it reminded me of our projects for MUSI 3770. Daniel is someone who has proven that he can develop astounding applications entirely developed on his own, and is someone I will always look to if I have any questions about development.
+
+### November 13th, 2021 | Atlanta, GA
