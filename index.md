@@ -16,7 +16,7 @@ I have been lucky enough to play music with Daniel over the past year in the sam
 
 ##### What are some of your current jobs right now?
 
-I spend most of my time on this app called _Any Distance_, which is a fitness app. It’s not music technology, but I do have a collection of music technology apps available under my company **[Coda Labs]**(https://codalabs.io/). Those apps are primarily tools for musicians. Both of those projects occupy most of my time currently.
+I spend most of my time on this app called _Any Distance_, which is a fitness app. It’s not music technology, but I do have a collection of music technology apps available under my company Coda Labs. Those apps are primarily tools for musicians. Both of those projects occupy most of my time currently.
 
 ##### For this interview specifically, we will focus on your work with Coda Labs. I want to begin by talking about your introduction into computer science and music technology. What started that pathway for you?
 
@@ -82,4 +82,4 @@ Of course. I think you should try to make something “real” as soon as possib
 ---
 ---
 
-## November 13th, 2021 | Atlanta, GA
+# November 13th, 2021 | Atlanta, GA
